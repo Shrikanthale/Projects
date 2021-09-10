@@ -9,6 +9,7 @@ const Main = () => {
         <>  
             <Nav />
             <Body /> 
+            
             <Features/>
             <br/>
             <Section1/>  
